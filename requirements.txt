@@ -1,0 +1,3 @@
+# JurisConta - Calculadora de Prazos Processuais
+# Não requer instalação de bibliotecas externas
+# tkinter já vem instalado com Python (biblioteca padrão)

@@ -1,0 +1,243 @@
+{
+  "nacionais": [
+    {"data": "01/01", "nome": "Confraternização Universal"},
+    {"data": "21/04", "nome": "Tiradentes"},
+    {"data": "01/05", "nome": "Dia do Trabalhador"},
+    {"data": "07/09", "nome": "Independência do Brasil"},
+    {"data": "12/10", "nome": "Nossa Senhora Aparecida"},
+    {"data": "02/11", "nome": "Finados"},
+    {"data": "15/11", "nome": "Proclamação da República"},
+    {"data": "20/11", "nome": "Dia Nacional da Consciência Negra"},
+    {"data": "25/12", "nome": "Natal"},
+    {"data": "30/11", "nome": "Dia do Evangélico"}
+  ],
+  "estaduais": {
+    "Acre": [
+      {"data": "15/06", "nome": "Aniversário do Acre"},
+      {"data": "08/09", "nome": "Dia da Amazônia"},
+      {"data": "17/11", "nome": "Assinatura do Tratado de Petrópolis"}
+    ],
+    "Alagoas": [
+      {"data": "24/06", "nome": "São João"},
+      {"data": "16/09", "nome": "Emancipação Política de Alagoas"},
+      {"data": "27/09", "nome": "Dia da Padroeira de Alagoas"}
+    ],
+    "Amapá": [
+      {"data": "13/09", "nome": "Criação do Território Federal"},
+      {"data": "05/10", "nome": "Dia de São Francisco"}
+    ],
+    "Amazonas": [
+      {"data": "20/03", "nome": "Dia da Língua Portuguesa"},
+      {"data": "05/09", "nome": "Elevação do Amazonas à Categoria de Província"},
+      {"data": "22/11", "nome": "Dia de Santo André"}
+    ],
+    "Bahia": [
+      {"data": "02/07", "nome": "Independência da Bahia"},
+      {"data": "15/06", "nome": "Dia do Educador"}
+    ],
+    "Ceará": [
+      {"data": "25/03", "nome": "Data Magna do Ceará (Abolição da Escravatura)"},
+      {"data": "19/03", "nome": "Dia de São José"}
+    ],
+    "Distrito Federal": [
+      {"data": "21/04", "nome": "Fundação de Brasília"},
+      {"data": "30/08", "nome": "Dia do Bandeirante"}
+    ],
+    "Espírito Santo": [
+      {"data": "23/05", "nome": "Colonização do Solo Espírito-santense"}
+    ],
+    "Goiás": [
+      {"data": "05/07", "nome": "Fundação de Goiás"},
+      {"data": "24/05", "nome": "Dia de Nossa Senhora Auxiliadora"}
+    ],
+    "Maranhão": [
+      {"data": "28/07", "nome": "Adesão do Maranhão à Independência do Brasil"},
+      {"data": "08/12", "nome": "Dia de Nossa Senhora da Conceição"}
+    ],
+    "Mato Grosso": [
+      {"data": "04/07", "nome": "Aniversário de Rondonópolis"}
+    ],
+    "Mato Grosso do Sul": [
+      {"data": "11/10", "nome": "Criação do Estado"}
+    ],
+    "Minas Gerais": [
+      {"data": "21/04", "nome": "Fundação de Vila Rica"},
+      {"data": "16/07", "nome": "Dia de Nossa Senhora do Carmo"}
+    ],
+    "Pará": [
+      {"data": "15/08", "nome": "Adesão do Pará à Independência"},
+      {"data": "08/09", "nome": "Dia de Nossa Senhora de Nazaré"}
+    ],
+    "Paraíba": [
+      {"data": "05/08", "nome": "Fundação da Paraíba"},
+      {"data": "13/06", "nome": "Dia de Santo Antônio"}
+    ],
+    "Paraná": [
+      {"data": "19/12", "nome": "Emancipação Política do Paraná"}
+    ],
+    "Pernambuco": [
+      {"data": "06/03", "nome": "Revolução Pernambucana de 1817"}
+    ],
+    "Piauí": [
+      {"data": "13/03", "nome": "Dia da Batalha do Jenipapo"},
+      {"data": "19/10", "nome": "Dia do Piauí"}
+    ],
+    "Rio de Janeiro": [
+      {"data": "23/04", "nome": "Dia de São Jorge"},
+      {"data": "20/11", "nome": "Dia da Consciência Negra"}
+    ],
+    "Rio Grande do Norte": [
+      {"data": "07/09", "nome": "Dia de Nossa Senhora dos Prazeres"},
+      {"data": "03/10", "nome": "Mártires de Cunhaú e Uruaçu"}
+    ],
+    "Rio Grande do Sul": [
+      {"data": "20/09", "nome": "Revolução Farroupilha"}
+    ],
+    "Rondônia": [
+      {"data": "04/01", "nome": "Criação do Estado"},
+      {"data": "18/09", "nome": "Anexação do Acre"}
+    ],
+    "Roraima": [
+      {"data": "05/10", "nome": "Criação de Roraima"},
+      {"data": "04/06", "nome": "Dia de Nossa Senhora do Carmo"}
+    ],
+    "Santa Catarina": [
+      {"data": "11/08", "nome": "Criação da Capitania, separando-se de SP"},
+      {"data": "28/08", "nome": "Dia dos Bancários"}
+    ],
+    "São Paulo": [
+      {"data": "09/07", "nome": "Revolução Constitucionalista de 1932"},
+      {"data": "25/01", "nome": "Aniversário de São Paulo"}
+    ],
+    "Sergipe": [
+      {"data": "08/07", "nome": "Autonomia Política de Sergipe"}
+    ],
+    "Tocantins": [
+      {"data": "05/10", "nome": "Criação do Estado"},
+      {"data": "18/03", "nome": "Autonomia do Tocantins"}
+    ]
+  },
+  "municipais": {
+    "São Paulo": [
+      {"data": "25/01", "nome": "Aniversário da Cidade de São Paulo"}
+    ],
+    "Rio de Janeiro": [
+      {"data": "01/03", "nome": "Aniversário da Cidade do Rio de Janeiro"},
+      {"data": "20/11", "nome": "Dia da Consciência Negra - Zumbi dos Palmares"}
+    ],
+    "Brasília": [
+      {"data": "21/04", "nome": "Fundação de Brasília"}
+    ],
+    "Salvador": [
+      {"data": "29/03", "nome": "Aniversário de Salvador"}
+    ],
+    "Fortaleza": [
+      {"data": "13/04", "nome": "Aniversário de Fortaleza"}
+    ],
+    "Belo Horizonte": [
+      {"data": "12/12", "nome": "Aniversário de Belo Horizonte"}
+    ],
+    "Manaus": [
+      {"data": "24/10", "nome": "Aniversário de Manaus"}
+    ],
+    "Curitiba": [
+      {"data": "29/03", "nome": "Aniversário de Curitiba"}
+    ],
+    "Recife": [
+      {"data": "12/03", "nome": "Aniversário de Recife"}
+    ],
+    "Porto Alegre": [
+      {"data": "26/03", "nome": "Aniversário de Porto Alegre"}
+    ],
+    "Belém": [
+      {"data": "12/01", "nome": "Aniversário de Belém"}
+    ],
+    "Goiânia": [
+      {"data": "24/10", "nome": "Aniversário de Goiânia"}
+    ],
+    "Guarulhos": [
+      {"data": "08/12", "nome": "Aniversário de Guarulhos"}
+    ],
+    "Campinas": [
+      {"data": "14/07", "nome": "Aniversário de Campinas"}
+    ],
+    "São Luís": [
+      {"data": "08/09", "nome": "Aniversário de São Luís"}
+    ],
+    "São Gonçalo": [
+      {"data": "22/09", "nome": "Aniversário de São Gonçalo"}
+    ],
+    "Maceió": [
+      {"data": "09/12", "nome": "Aniversário de Maceió"}
+    ],
+    "Duque de Caxias": [
+      {"data": "31/12", "nome": "Aniversário de Duque de Caxias"}
+    ],
+    "Natal": [
+      {"data": "25/12", "nome": "Aniversário de Natal"}
+    ],
+    "Campo Grande": [
+      {"data": "26/08", "nome": "Aniversário de Campo Grande"}
+    ],
+    "Teresina": [
+      {"data": "16/08", "nome": "Aniversário de Teresina"}
+    ],
+    "São Bernardo do Campo": [
+      {"data": "20/08", "nome": "Aniversário de São Bernardo do Campo"}
+    ],
+    "Nova Iguaçu": [
+      {"data": "15/01", "nome": "Aniversário de Nova Iguaçu"}
+    ],
+    "João Pessoa": [
+      {"data": "05/08", "nome": "Aniversário de João Pessoa"}
+    ],
+    "Santo André": [
+      {"data": "08/04", "nome": "Aniversário de Santo André"}
+    ],
+    "Osasco": [
+      {"data": "19/02", "nome": "Aniversário de Osasco"}
+    ],
+    "Jaboatão dos Guararapes": [
+      {"data": "04/05", "nome": "Aniversário de Jaboatão dos Guararapes"}
+    ],
+    "Ribeirão Preto": [
+      {"data": "19/06", "nome": "Aniversário de Ribeirão Preto"}
+    ],
+    "Uberlândia": [
+      {"data": "31/08", "nome": "Aniversário de Uberlândia"}
+    ],
+    "Sorocaba": [
+      {"data": "15/08", "nome": "Aniversário de Sorocaba"}
+    ],
+    "Contagem": [
+      {"data": "30/08", "nome": "Aniversário de Contagem"}
+    ],
+    "Aracaju": [
+      {"data": "17/03", "nome": "Aniversário de Aracaju"}
+    ],
+    "Feira de Santana": [
+      {"data": "18/09", "nome": "Aniversário de Feira de Santana"}
+    ],
+    "Cuiabá": [
+      {"data": "08/04", "nome": "Aniversário de Cuiabá"}
+    ],
+    "Juiz de Fora": [
+      {"data": "31/05", "nome": "Aniversário de Juiz de Fora"}
+    ],
+    "Joinville": [
+      {"data": "09/03", "nome": "Aniversário de Joinville"}
+    ],
+    "Londrina": [
+      {"data": "10/12", "nome": "Aniversário de Londrina"}
+    ],
+    "Aparecida": [
+      {"data": "12/10", "nome": "Padroeira do Brasil - Nossa Senhora Aparecida"}
+    ],
+    "Gramado": [
+      {"data": "15/12", "nome": "Aniversário de Gramado"}
+    ],
+    "Blumenau": [
+      {"data": "02/09", "nome": "Aniversário de Blumenau"}
+    ]
+  }
+}
