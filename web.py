@@ -179,8 +179,10 @@ def calcular_prazo(feriados, data_publicacao: str, prazo_dias: int,
 
 def main():
     # Header
+    st.markdown('<div style="margin-top: -80px;">', unsafe_allow_html=True)
     st.markdown('<h1 class="main-header">⚖️ JURISCONTA</h1>', unsafe_allow_html=True)
     st.markdown('<p class="subtitle">Calculadora de Prazos Processuais - Baseada no CPC</p>', unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
     
     # Carrega feriados
     feriados = carregar_feriados()
@@ -310,9 +312,10 @@ def main():
         
         st.markdown("---")
         
-        if st.button("🔄 Atualizar Banco de Feriados"):
-            st.cache_data.clear()
-            st.rerun()
+        # Oculta o botão de atualizar
+        # if st.button("🔄 Atualizar Banco de Feriados"):
+        #     st.cache_data.clear()
+        #     st.rerun()
 
 
 if __name__ == '__main__':
