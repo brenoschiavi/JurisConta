@@ -25,6 +25,7 @@ st.markdown("""
             color: #2c3e50;
             text-align: center;
             margin-bottom: 0.5rem;
+            margin-top: -40px;
         }
         .subtitle {
             text-align: center;
